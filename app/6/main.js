@@ -19,7 +19,7 @@ window.addEventListener("load", () => {
         res.value = deleteNumbers(srcData.value);;
     });
 
-    // Удаление чисел вида 123 3.14 3,14
+    // Удаление чисел вида 123 1, 1. 3.14 3,14
     function deleteNumbers(text) {
         const DIGS = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"];
         const NUM_SEPS = [".", ","];
