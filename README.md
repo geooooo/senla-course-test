@@ -1,3 +1,3 @@
-# Тестовое задание к курсам SENLA по языку Java
+# Test task for SENLA Java course 
 
-[>> Демонстрация решения](https://geooooo.github.io/senla-course-test/app/index.html)
+[>> Demo](https://geooooo.github.io/senla-course-test/app/index.html)
